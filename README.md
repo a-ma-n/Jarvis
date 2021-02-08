@@ -7,27 +7,4 @@
 *There you go just as simple as that...
 It also says good morning to make you feel 'Precious':P
 
-<g:plusone size="medium"></g:plusone>
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-
-<!--
-    2. Twitter Tweet button 
-    - see http://twitter.com/about/resources/tweetbutton/ 
--->
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="fyzlmn">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-
-<!--
-    3. Facebook Share button 
-    - see http://developers.facebook.com/docs/reference/plugins/like/
-    - code below is the old version. but still works.
--->
-<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a>
-<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-
-<!--
-    4. LinkedIn Share button 
-    - see http://www.linkedin.com/publishers
--->
-<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
-<script type="in/share" data-counter="right"></script>
+https://camo.githubusercontent.com/e31e88a64ddd9f4d196153f4c5b24177d0f83a94595b5a9eb2886a43e2685fb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d656635333530266c6f676f3d676d61696c266c6f676f436f6c6f723d666666666666
