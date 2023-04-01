@@ -59,12 +59,10 @@ def sendEmail(to,content):
     server.close()
 '''
 if __name__ == "__main__":
-
- #   speak("seemeen's collection")
     wishMe() 
     while True:
         query = takeCommand().lower()
-    #logic for executing tasks based on query
+        #logic for executing tasks based on query
         if 'wikipedia' in query:
             speak('Searching Wikipedia...')
             query = query.replace("wikipedia","")
@@ -89,18 +87,6 @@ if __name__ == "__main__":
         elif 'open code' in query:
             codePath = "C:\\Users\\user\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)
-        '''
-        elif 'send email to aman' in query:
-            try:
-                speak('What should i say')
-                content = takeCommand()
-                to = "aman.la.mart@gmail.com"
-                sendEmail(to,content)
-                speak("Email has been sent")
-            except Exception as e:
-                print(e)
-                speak("Sorry my friend Aman bhai.I am not able to send the email")
-                '''
         elif 'exit' in query:
                  exit(1)
         elif 'camera' in query:
